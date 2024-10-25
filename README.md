@@ -14,6 +14,13 @@ Overview of the Project
 
 Project : Text Generation with GPT-2
 
+
+![output](https://github.com/user-attachments/assets/e5e2cd21-8c69-4528-a895-6115a4f8dca4)
+
+
+
+
+
 Objective:
 
 The primary objective of this code is to generate text based on a given prompt using a fine-tuned version of the GPT-2 model. The generated text can be used for various applications, such as storytelling, creative writing, or generating conversational responses.
